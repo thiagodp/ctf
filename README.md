@@ -7,6 +7,10 @@ Achou legal? 🆒 Dê um `Star` ⭐ !
 
 **Downloads**
 - Introdução - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-introducao.pdf), [PPSX](https://github.com/thiagodp/ctf/raw/master/slides/ctf-introducao.ppsx)
+- Especificação por Exemplos - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-especificacao-por-exemplos.pdf)
+- CodeceptJS - PDF *(breve)*
+- Melhoria dos Testes - PDF *(breve)*
+- Concordia - PDF *(breve)*
 
 ## Licença
 
