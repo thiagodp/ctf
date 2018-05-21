@@ -12,6 +12,14 @@ Achou legal? 🆒 Dê um `Star` ⭐ !
 - Melhoria dos Testes - PDF *(breve)*
 - Concordia - PDF *(breve)*
 
+
+Alguns links:
+
+- [CodeceptJS](https://codecept.io) - framework visto com mais profundidade no curso
+- [Concordia](http://concordialang.org) - linguagem e ferramenta para geração de testes funcionais, ambas vistas no curso
+- [Padrões para commit](https://github.com/thiagodp/commitment) - útil como guia para equipes
+- [BDD with Cucumber](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/) - artigo em inglês, útil para quem quiser experimentar o Cucumber
+
 ## Licença
 
 [GNU Affero 3](LICENCE) © [Thiago Delgado Pinto](https://github.com/thiagodp)
