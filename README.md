@@ -9,7 +9,7 @@ Achou legal? 🆒 Dê um `Star` ⭐ !
 - Introdução - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-introducao.pdf), [PPSX](https://github.com/thiagodp/ctf/raw/master/slides/ctf-introducao.ppsx)
 - Especificação por Exemplos - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-especificacao-por-exemplos.pdf)
 - CodeceptJS - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-frameworks.pdf)
-- Melhoria dos Testes - PDF *(breve)*
+- Técnicas de Teste Funcional - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-testes.pdf)
 - Concordia - PDF *(breve)*
 
 
