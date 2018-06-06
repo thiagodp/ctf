@@ -18,6 +18,7 @@ Alguns links:
 
 - [Concordia](http://concordialang.org) - 🚀 linguagem e ferramenta para geração de testes funcionais, ambas vistas no curso
 - [CodeceptJS](https://codecept.io) - framework visto com mais profundidade no curso
+- [CodeceptJS-DbHelper](https://github.com/thiagodp/codeceptjs-dbhelper) - Helper para CodeceptJS que permite acesso a bancos de dados dentro de testes e eventos de teste.
 - [Padrões para commit](https://github.com/thiagodp/commitment) - útil como guia para equipes
 - [BDD with Cucumber](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/) - artigo em inglês, útil para quem quiser experimentar o Cucumber
 
