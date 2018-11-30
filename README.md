@@ -13,6 +13,9 @@ Achou legal? 🆒 Dê um `Star` ⭐ !
 - Técnicas de Teste Funcional - [PDF](https://github.com/thiagodp/ctf/raw/master/slides/ctf-testes.pdf)
 - Concordia - PDF *(breve)*
 
+**Palestras (extra)**
+
+- *"Unindo Especificação Ágil e Automação de Testes Funcionais com Concordia"* - [PDF](https://github.com/thiagodp/ctf/raw/master/talks/openlabs5-concordia.pdf), [PPSX](https://github.com/thiagodp/ctf/raw/master/talks/openlabs5-concordia.ppsx) - apresentada no [OpenLabs V](http://openlabsconf.com.br/) - Novembro/2018
 
 Alguns links:
 
